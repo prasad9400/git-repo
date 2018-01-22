@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project name="MyProject" default="echodemo1" basedir=".">
+   <target name="echodemo1">
+      <echo message="Hello, world" />
+      <!-- new line as a character data -->      <echo>Another Hello Message</echo>
+   </target>
+</project>
