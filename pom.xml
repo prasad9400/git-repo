@@ -2,7 +2,7 @@
 <project>
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.maven.training</groupId>
-    <artifactId>bujji is my world</artifactId>
+    <artifactId>hello.world</artifactId>
     <version>1.0.0</version>
 </project>
 
